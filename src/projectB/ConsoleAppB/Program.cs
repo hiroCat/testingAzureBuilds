@@ -19,6 +19,9 @@ namespace ConsoleAppB
                 Console.WriteLine(item);
             foreach (var item in fN)
                 Console.WriteLine(item);
+                
+            foreach (var item in fN)
+                Console.WriteLine(item);
         }
     }
 }
