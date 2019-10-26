@@ -13,12 +13,6 @@ namespace ConsoleAppA
             var fN = Frier.DoFry(n);
             foreach (var item in fN)
                 Console.WriteLine(item);
-            foreach (var item in fN)
-                Console.WriteLine(item);
-            foreach (var item in fN)
-                Console.WriteLine(item);  
-            foreach (var item in fN)
-                Console.WriteLine(item);  
         }
     }
 }
