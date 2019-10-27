@@ -7,10 +7,7 @@ namespace ConsoleAppB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of steaks");
-
-            var n = Console.Read();
-            var fN = Pan.DoPutInThaPan(n);
+            Console.WriteLine("Enter the number of 
             foreach (var item in fN)
                 Console.WriteLine(item);
         }
