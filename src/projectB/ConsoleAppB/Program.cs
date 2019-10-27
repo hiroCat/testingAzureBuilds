@@ -7,7 +7,7 @@ namespace ConsoleAppB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of steaks");
+            Console.WriteLine("Enter the number of steaks yeah for real now ");
 
             var n = Console.Read();
             var fN = Pan.DoPutInThaPan(n);
