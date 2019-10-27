@@ -13,7 +13,6 @@ namespace ConsoleAppB
             var fN = Pan.DoPutInThaPan(n);
             foreach (var item in fN)
                 Console.WriteLine(item);
-            foreach (var item in fN)
         }
     }
 }
