@@ -7,7 +7,8 @@ namespace ConsoleAppB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of 
+            Console.WriteLine("Enter the number of steaks fixed nooooow ");
+
             foreach (var item in fN)
                 Console.WriteLine(item);
         }
